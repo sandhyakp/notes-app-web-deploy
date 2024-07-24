@@ -1,5 +1,5 @@
 # notes-app-web-deploy
-this is fork from trainwithshubham with "django-notes-app" and some file from prajeet1000 / website-deploy
+this is fork from trainwithshubham with "django-notes-app" website-deploy
 Simple Notes App
 This is a simple notes app built with React and Django.
 
